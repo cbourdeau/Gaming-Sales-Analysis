@@ -1,9 +1,7 @@
 # Heroes of Pymoli - Sales Analysis
-
-## Background
-
 ![Fantasy](Images/Fantasy.png)
 
+## Background
 Heroes of Pymoli is a free-to-play game, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company wants a report that breaks down the game's purchasing data into meaningful insights.
 
 The report includes each of the following:
