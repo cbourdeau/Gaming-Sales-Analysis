@@ -4,63 +4,19 @@
 ## Background
 Heroes of Pymoli is a free-to-play game, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company wants a report that breaks down the game's purchasing data into meaningful insights.
 
-The report includes each of the following:
+## Sales Analysis:
+- **576** players purchased **780** in-game items producing **2379.77 USD** in total sales
+- Most players that purchased items were **men (84%)** while only a few were **women (14%)**
+- Although Pymoli is predominatly men, ***women tend to spend more money*** on average than men, indicating more marketing should be spent on women who could potentially drive more in-game sales.
+![fig1](Images/fig1_gender_analysis.png)
 
-### Player Count
+- Most Pymoli players fell into the age ranges of **20-24 (45%)** followed by **15-19 (19%)** indicating a high school and college audience. These players consume a lot of social media, so we can maximize our ads to be on social. Players have also used these purchases to increase their social status in game.
+![fig2](Images/fig2_age_analysis.png)
+![fig3](Images/fig3_age_analysis_2.png)
 
-* Total Number of Players
+- These were to top 3 spenders: ***Lisosia93 (18.96 USD), Idastidru52 (15.45 USD), Chamjask73 (13.83 USD)***. We should send these players thank you notes for their continued support of Pymoli and continue developing new items for these players.
+![fig4](Images/fig4_top_spenders.png)
 
-### Purchasing Analysis (Total)
-
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
-
-### Gender Demographics
-
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
-
-### Purchasing Analysis (Gender)
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
-
-### Age Demographics
-
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Age Group
-
-### Top Spenders
-
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-
-### Most Popular Items
-
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-### Most Profitable Items
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+- The **'Final Critic'** drove the most sales (59.99 USD) and largest volume purchased (13)
+![fig5](Images/fig5_popular_items.png)
+![fig6](Images/fig6_profitable_items.png)
